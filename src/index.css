@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.inputBlock {
+  padding-top: 15px;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.pic {
+  margin: 15px;
+  width: 25%;
+  object-fit: cover;
+}
